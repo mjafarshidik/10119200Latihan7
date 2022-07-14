@@ -5,13 +5,10 @@
 <!--IF-5-->
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-
     <data>
-
         <variable
             name="onItemClickListener"
             type="com.penatabahasa.a10119200latihan7.ui.home.ItemClickListener" />
-
         <variable
             name="coin"
             type="com.penatabahasa.a10119200latihan7.model.home.Data" />
